@@ -1,1 +1,1 @@
-https://github.com/Top-gg-Community/node-sdk@
+https://github.com/Top-gg-Community/node-sdk
